@@ -1,2 +1,4 @@
 # hello-world
-To create a new repository
+Create a new repository
+Create a branch
+Make a commit
